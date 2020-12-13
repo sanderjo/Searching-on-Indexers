@@ -8,3 +8,7 @@ If you have an account on indexers like Drunkenslug or nzb.su, with the Chrome e
 4. in Chrome, select any text (like "Ubuntu") on any webpage, right click, Extended Search, Drunkenslug
 
 PS: maybe best to start with NZBindex and https://nzbindex.com/?q=%s as you need no account for the indexer NZBindex
+
+Hack stuff: to see the settings from the CLI, this worked for me:
+
+strings ~/.config/google-chrome/Default/Local\ Extension\ Settings/lhneenlgkagogapgbkjbjdfelpghbnak/000003.log | tail -1 | python3 -m json.tool
