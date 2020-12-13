@@ -7,4 +7,4 @@ If you have an account on indexers like Drunkenslug or nzb.su, with the Chrome e
 3. in the menu, click +, fill out "drunkenslug" and "https://drunkenslug.com/search/%s" and click on Save
 4. in Chrome, select any text (like "Ubuntu") on any webpage, right click, Extended Search, Drunkenslug
 
-PS: maybe best to start with NZBindex and https://nzbindex.com/?q=%s 
+PS: maybe best to start with NZBindex and https://nzbindex.com/?q=%s as you need no account for the indexer NZBindex
